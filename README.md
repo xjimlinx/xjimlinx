@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xjimlinx
 - 👀 I’m interested in Playing games and C艹.
-- 🌱 I’m currently learning Python2.7 and c++.
+- 🌱 I’m currently learning Python, c艹, and Linux.
 - 💞️ I’m looking to ..............
 - 📫 How to reach me : QQ 1021538027  ...
 
