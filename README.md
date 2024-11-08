@@ -1,8 +1,7 @@
 ## - 👋 Hi, I’m @xjimlinx
-## - 👀 I’m interested in Playing games and C艹.
-## - 🌱 I’m currently learning STM32F103, c艹, and Linux.
-## - 💞️ I’m looking to ..............
-## - 📫 How to reach me : QQ 1021538027  ...
+## - 👀 I’m interested in Playing games, C艹 and Rust.
+## - 🌱 I’m currently learning Rust, and Implementation of Operating System.
+## - 📫 How to reach me : QQ 1021538027
 
 <!---
 xjimlinx/xjimlinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
